@@ -6,7 +6,7 @@ This is a third-party release of llvm on PowerPC and is not an official part of 
 its purpose is to provide tested and pre-built binaries for the PowerPC target.
 
 This repository _**does not**_ contain any of the source code used to build the binaries present under https://github.com/IBM/llvm-project/releases,
-the files in each release named `Source code(zip / tar.gz)` are automated packaging of the lisencing info in this repository.
+the files in each release named `Source code(zip / tar.gz)` are automated packaging of the licensing info in this repository.
 
 The tags and releases versions in [this repository](https://github.com/IBM/llvm-project/releases) mirror the [official llvm-project release](https://github.com/llvm/llvm-project/releases).
 The source code for a release should be downloaded from the corresponding release tagged on the official page.
